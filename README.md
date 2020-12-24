@@ -14,7 +14,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
   <img alt="Babel" src="https://img.shields.io/badge/-Babel-f9dc3e?style=flat&logo=babel&logoColor=white" />
@@ -22,7 +22,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-f7b500?style=flat&logo=sketch&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-f7b500?style=flat&logo=figma&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-ff26b5?style=flat&logo=adobe-xd&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
