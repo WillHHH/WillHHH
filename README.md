@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-### Welcome to Will's Github page 😎
+<h3> Welcome to my Github page 💻 </h3>
 
-### I'm a web developer 💻
-
-### Languages and Tools ⬇️
+<h3> Languages and Tools ⬇️ ⬇️ ⬇️</h3>
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
